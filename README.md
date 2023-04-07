@@ -14,4 +14,5 @@ This documentation contains some link: testing application, VB.
 This link contains a Testing Application
 - [praktikum-algoritma-si: Materi semester 2 [Campus Assignment]](https://github.com/kisahtegar/praktikum-algoritma-si)
 - [Pemrograman2SI3APagi: Materi Semester 3 [Campus Assignment]](https://github.com/kisahtegar/Pemrograman2SI3APagi)
+- [PemrogramanVB: Materi Semester 4 [Campus Assignment]](https://github.com/kisahtegar/pemrogramanvb)
 <!-- - []() -->
